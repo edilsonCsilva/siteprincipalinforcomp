@@ -4,11 +4,12 @@
  * BANCO DE DADOS
  */
 if ($_SERVER ['SERVER_NAME'] == 'localhost'):
-    define('SIS_DB_HOST', 'localhost'); //Link do banco de dados
-    define('SIS_DB_USER', 'root'); //Usuário do banco de dados
-    define('SIS_DB_PASS', ''); //Senha  do banco de dados
-    define('SIS_DB_DBSA', 'db_inforcomp'); //Nome  do banco de dados
+    define('SIS_DB_HOST', 'localhost:3306'); //Link do banco de dados
+    define('SIS_DB_USER', 'inforcom_wcr3'); //Usuário do banco de dados
+    define('SIS_DB_PASS', '4a&5K{gUX&V7'); //Senha  do banco de dados
+    define('SIS_DB_DBSA', 'inforcom_wcdb'); //Nome  do banco de dados
 else:
+    
     define('SIS_DB_HOST', 'localhost:3306'); //Link do banco de dados
     define('SIS_DB_USER', 'inforcom_wcr3'); //Usuário do banco de dados
     define('SIS_DB_PASS', '4a&5K{gUX&V7'); //Senha  do banco de dados
