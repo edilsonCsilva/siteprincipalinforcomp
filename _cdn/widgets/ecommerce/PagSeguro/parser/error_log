@@ -1,0 +1,8 @@
+[04-Jan-2018 15:44:39 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroRefundParser.class.php on line 28
+[04-Jan-2018 15:44:39 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroCancelParser.class.php on line 28
+[04-Jan-2018 15:44:39 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroSessionParser.class.php on line 28
+[04-Jan-2018 15:44:39 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroTransactionParser.class.php on line 28
+[04-Jan-2018 15:44:39 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroPaymentParser.class.php on line 28
+[04-Jan-2018 15:44:39 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroInstallmentParser.class.php on line 28
+[04-Jan-2018 15:44:40 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroPaymentParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroDirectPaymentParser.class.php on line 28
+[04-Jan-2018 15:44:40 America/Sao_Paulo] PHP Fatal error:  Class 'PagSeguroServiceParser' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/PagSeguro/parser/PagSeguroAuthorizationParser.class.php on line 28

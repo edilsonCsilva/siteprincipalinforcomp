@@ -1,0 +1,3 @@
+[04-Jan-2018 15:44:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function FullRead() on null in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/cart.btn.php on line 2
+[04-Jan-2018 15:44:13 America/Sao_Paulo] PHP Fatal error:  Call to a member function ExeRead() on null in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/cart.add.php on line 30
+[04-Jan-2018 15:44:13 America/Sao_Paulo] PHP Fatal error:  Class 'Read' not found in /home/inforcompcom/public_html/_cdn/widgets/ecommerce/cart.order.php on line 5

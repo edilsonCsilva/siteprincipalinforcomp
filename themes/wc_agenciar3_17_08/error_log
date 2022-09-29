@@ -1,0 +1,7 @@
+[27-Oct-2017 11:43:05 UTC] PHP Fatal error:  Class 'Read' not found in /home/inforcompcom/public_html/themes/wc_agenciar3/page-contato.php on line 3
+[04-Jan-2018 15:41:48 America/Sao_Paulo] PHP Warning:  require(_cdn/widgets/slide_v2/slide.wc.php): failed to open stream: No such file or directory in /home/inforcompcom/public_html/themes/wc_agenciar3/index.php on line 8
+[04-Jan-2018 15:41:48 America/Sao_Paulo] PHP Warning:  require(_cdn/widgets/slide_v2/slide.wc.php): failed to open stream: No such file or directory in /home/inforcompcom/public_html/themes/wc_agenciar3/index.php on line 8
+[04-Jan-2018 15:41:48 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '_cdn/widgets/slide_v2/slide.wc.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/inforcompcom/public_html/themes/wc_agenciar3/index.php on line 8
+[09-Jan-2018 09:47:16 America/Sao_Paulo] PHP Warning:  require(_cdn/widgets/slide_v2/slide.wc.php): failed to open stream: No such file or directory in /home/inforcompcom/public_html/themes/wc_agenciar3/index.php on line 8
+[09-Jan-2018 09:47:16 America/Sao_Paulo] PHP Warning:  require(_cdn/widgets/slide_v2/slide.wc.php): failed to open stream: No such file or directory in /home/inforcompcom/public_html/themes/wc_agenciar3/index.php on line 8
+[09-Jan-2018 09:47:16 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '_cdn/widgets/slide_v2/slide.wc.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/inforcompcom/public_html/themes/wc_agenciar3/index.php on line 8

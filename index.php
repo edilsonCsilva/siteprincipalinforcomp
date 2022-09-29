@@ -4,8 +4,7 @@ ini_set('display_startup_erros',1);
 error_reporting(E_ALL);
 
 
-ob_start();
-session_start();
+
 
 require './_app/Config.inc.php';
 
@@ -320,11 +319,12 @@ else:
     </html>
 <?php
 endif;
-ob_end_flush();
 
+/*
 if (!file_exists('.htaccess')):
     $htaccesswrite = "RewriteEngine On\r\nOptions All -Indexes\r\n\r\n# WC WWW Redirect.\r\n#RewriteCond %{HTTP_HOST} !^www\. [NC]\r\n#RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\r\n\r\n# WC HTTPS Redirect\r\nRewriteCond %{HTTP:X-Forwarded-Proto} !https\r\nRewriteCond %{HTTPS} off\r\nRewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]\r\n\r\n# WC URL Rewrite\r\nRewriteCond %{SCRIPT_FILENAME} !-f\r\nRewriteCond %{SCRIPT_FILENAME} !-d\r\nRewriteRule ^(.*)$ index.php?url=$1";
     $htaccess = fopen('.htaccess', "w");
     fwrite($htaccess, str_replace("'", '"', $htaccesswrite));
     fclose($htaccess);
 endif;
+*/

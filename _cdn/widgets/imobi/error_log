@@ -1,0 +1,2 @@
+[04-Jan-2018 15:44:11 America/Sao_Paulo] PHP Fatal error:  Class 'Pager' not found in /home/inforcompcom/public_html/_cdn/widgets/imobi/list.wc.php on line 20
+[04-Jan-2018 15:44:11 America/Sao_Paulo] PHP Fatal error:  Call to undefined function getwcrealtytransaction() in /home/inforcompcom/public_html/_cdn/widgets/imobi/filter.wc.php on line 12
